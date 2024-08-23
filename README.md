@@ -41,7 +41,7 @@ I’ve developed a strong technical foundation throughout my academic and profes
 
 ## 💼 Professional Experience
 
-### 🌟 IT Developer Intern at [To-Let Globe](https://www.toletglobe.com)
+### 🌟 IT Developer Intern at [To-Let Globe](https://www.toletglobe.in)
 
 During my internship at To-Let Globe, I contributed to developing and launching their official website, ensuring it met all user requirements effectively. My responsibilities expanded as I was promoted to **Team Captain**, where I led a team of developers, maintained version control, and ensured smooth workflow through regular meetings and code reviews.
 
