@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **akarshi19/akarshi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Akarshi Mathur
 
 ---
 
@@ -32,10 +32,10 @@ Originally from **Moradabad, Uttar Pradesh**, I’ve been supported by a family 
 - **Backend Development**: Node.js, Express.js, REST APIs, Flask
 - **Databases**: MySQL, MongoDB, SQLite
 - **Machine Learning**: Scikit-learn, TensorFlow
-- **Tools & Platforms**: Git/GitHub, Postman, MS-Office, Agile Methodologies
+- **Tools & Platforms**: Git/GitHub, Postman, MS-Office
 - **Current Focus**: Image Processing
 
-Throughout my academic and professional journey, I’ve developed a strong technical foundation. I’ve gained hands-on experience in various technologies, including building dynamic web applications, working with databases, and developing machine learning models.
+I’ve developed a strong technical foundation throughout my academic and professional journey. I’ve gained hands-on experience in various technologies, including building dynamic web applications, working with databases, and developing machine learning models.
 
 ---
 
@@ -69,6 +69,4 @@ I’m always open to new opportunities, collaborations, and discussions. Feel fr
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akarshi__19)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarshigmathur@gmail.com)
 
----
 
-![Footer Image](https://yourimageurl.com)
