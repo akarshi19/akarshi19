@@ -24,9 +24,9 @@ I’ve developed a strong technical foundation throughout my academic and profes
 
 ## 💼 Professional Experience
 
-### 🌟 Software Developer Trainee at [Finsol Technologies](https://www.finsoltechnologies.com/)
+### 🌟 Software Developer at [Finsol Technologies](https://www.finsoltechnologies.com/)
 
-Currently, I am working as a **Software Developer Intern** at Finsol Technologies, where I am gaining hands-on experience in software development while working on real-world projects. This role is enhancing my development skills in full-stack development and problem-solving, particularly in financial technologies.
+Currently, I am working as a **Software Developer Intern** at Finsol Technologies, where I am gaining hands-on experience in software development while working on real-world projects. Working closely with cross-functional teams to implement robust features, optimize performance,and solve complex real-world problems. Gaining hands-on experience with modern frameworks, APIs, and deployment practices in a fast-paced, agile environment.
 
 ### 🌟 IT Developer Intern at [To-Let Globe](https://www.toletglobe.in)
 
