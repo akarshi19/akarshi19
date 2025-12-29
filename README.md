@@ -1,58 +1,18 @@
-# 👋 Hello, I'm Akarshi Mathur
+# 💫 About Me:
+🔭 I’m currently working on<br><br>A High-Frequency Trading (HFT) platform at Finsol Technologies<br><br>Performance-critical trading UI & backend modules<br><br>Real-world enterprise features using React, gRPC, and distributed systems<br><br>👯 I’m looking to collaborate on<br><br>Full-stack web applications (React, Node.js, APIs)<br><br>Machine learning / NLP projects with practical use cases<br><br>Open-source projects focused on UI, data, or developer tools<br><br>🤝 I’m looking for help with<br><br>Scalable system design for high-performance applications<br><br>Low-latency & performance optimization techniques<br><br>Best practices for cloud deployment & DevOps<br><br>🌱 I’m currently learning<br><br>.NET ecosystem (C#, WPF, WCF)<br><br>RabbitMQ for distributed messaging<br><br>Advanced concepts in financial systems & trading platforms<br><br>💬 Ask me about<br><br>React, REST APIs, and frontend architecture<br><br>Real-world software development in agile teams<br><br>Machine learning basics & applied projects<br><br>Leading teams and managing dev workflows
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akarshimathur19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akarshigmathur@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=akarshi19&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=akarshi19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akarshi19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=akarshi19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 About Me
-I’m a final-year **BTech student** specializing in **Computer Science and Engineering** at **JUET, Guna, Madhya Pradesh**. With a strong foundation in software development and a CGPA of 8.1, I’m passionate about applying my skills to solve real-world problems, particularly in the realm of **image processing**.
-
-Originally from **Moradabad, Uttar Pradesh**, I’ve been supported by a family that values education and perseverance. My technical journey has been fueled by a desire to continually learn and grow, especially in the areas of **web development**, **machine learning**, and **software engineering**.
-
----
-
-## 🛠️ Technical Skills
-
-- **Programming Languages**: C, C++, Python, Java, C#
-- **Web Technologies**: HTML, CSS, JavaScript, React
-- **Backend Development**: Node.js, Express.js, REST APIs, Flask
-- **Databases**: MySQL, MongoDB, SQLite
-- **Machine Learning**: Scikit-learn, TensorFlow
-- **Tools & Platforms**: Git/GitHub, Postman, MS-Office
-
-I’ve developed a strong technical foundation throughout my academic and professional journey. I’ve gained hands-on experience in various technologies, including building dynamic web applications, working with databases, and developing machine learning models.
-
----
-
-## 💼 Professional Experience
-
-### 🌟 Software Developer at [Finsol Technologies](https://www.finsoltechnologies.com/)
-
-Currently, I am working as a **Software Developer Intern** at Finsol Technologies, where I am gaining hands-on experience in software development while working on real-world projects. Working closely with cross-functional teams to implement robust features, optimize performance,and solve complex real-world problems. Gaining hands-on experience with modern frameworks, APIs, and deployment practices in a fast-paced, agile environment.
-
-### 🌟 IT Developer Intern at [To-Let Globe](https://www.toletglobe.in)
-
-During my internship at To-Let Globe, I contributed to developing and launching their official website, ensuring it met all user requirements effectively. My responsibilities expanded as I was promoted to **Team Captain**, where I led a team of developers, maintained version control, and ensured smooth workflow through regular meetings and code reviews.
-
----
-
-## 🌍 Current Work
-
-I am currently focusing on learning **.NET**, **RabbitMQ**, **WCF**, and **WPF**. These technologies are expanding my expertise in enterprise-level applications and distributed systems, particularly in the context of software development for financial services.
-
----
-
-## 🎨 Hobbies and Interests
-
-- **Tech Exploration**: I enjoy experimenting with new technologies and contributing to open-source projects, where I can apply my skills and learn from the community.
-- **Art & Craft**: A creative outlet that keeps me grounded and inspired.
-
----
-
-## 📫 Let's Connect!
-
-I’m always open to new opportunities, collaborations, and discussions. Feel free to reach out to me through any of the following platforms:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarshimathur19/)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akarshi19)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akarshigmathur@gmail.com)  
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
