@@ -1,6 +1,58 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>A High-Frequency Trading (HFT) platform at Finsol Technologies<br><br>Performance-critical trading UI & backend modules<br><br>Real-world enterprise features using React, gRPC, and distributed systems<br><br>👯 I’m looking to collaborate on<br><br>Full-stack web applications (React, Node.js, APIs)<br><br>Machine learning / NLP projects with practical use cases<br><br>Open-source projects focused on UI, data, or developer tools<br><br>🤝 I’m looking for help with<br><br>Scalable system design for high-performance applications<br><br>Low-latency & performance optimization techniques<br><br>Best practices for cloud deployment & DevOps<br><br>🌱 I’m currently learning<br><br>.NET ecosystem (C#, WPF, WCF)<br><br>RabbitMQ for distributed messaging<br><br>Advanced concepts in financial systems & trading platforms<br><br>💬 Ask me about<br><br>React, REST APIs, and frontend architecture<br><br>Real-world software development in agile teams<br><br>Machine learning basics & applied projects<br><br>Leading teams and managing dev workflows
+# 👋 Hello, I'm Akarshi Mathur
 
+---
+
+##  About Me  
+
+I am a **CSE graduate** with a strong interest in building **high-performance, scalable software systems**. Currently, I am working in the **financial technology domain**, contributing to systems that demand **low latency, reliability, and precision**.
+
+Originally from **Moradabad, Uttar Pradesh**, my journey in technology has been driven by curiosity and continuous learning. Over time, this curiosity has grown into a passion for **full-stack development, distributed systems, and real-world software engineering**.
+
+---
+
+## 💼 Working Experience  
+
+###  Software Developer — **Finsol Technologies**  
+**Current**  
+
+- Working on a **High-Frequency Trading (HFT) platform**
+- Developing **performance-critical trading UI and backend modules**
+- Building enterprise-grade features using **React, gRPC, and distributed system architectures**
+- Collaborating with cross-functional teams in an **agile environment**
+- Optimizing system performance with a focus on **low-latency execution**
+
+---
+
+###  IT Developer Intern — **To-Let Globe**  
+
+- Contributed to the **development and launch of the official website**
+- Promoted to **Team Captain**, leading and coordinating a development team
+- Conducted **code reviews**, managed version control, and tracked progress
+- Actively involved in **requirement analysis, feature integration, and deployment**
+
+---
+
+## 🤝 Collaboration & Interests  
+
+- Full-stack web applications (**React, Node.js, REST APIs**)
+- **Machine Learning / NLP projects** with real-world use cases
+- **Open-source projects** focused on UI, data, and developer tools
+
+---
+
+## 🌱 Currently Learning  
+
+- Advanced concepts in **financial systems and trading platforms**
+- **RabbitMQ** for distributed messaging
+
+---
+
+## 🎨 Hobbies & Interests  
+
+- **Tech Exploration:** Experimenting with new technologies and contributing to open source
+- **Art & Craft:** A creative outlet that keeps me inspired
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akarshimathur19) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akarshigmathur@gmail.com) 
@@ -14,5 +66,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akarshi19&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+⭐ *Always learning, building, and improving.*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
